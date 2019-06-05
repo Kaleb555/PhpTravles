@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18500" started-at="2019-06-05T19:07:33Z" finished-at="2019-06-05T19:07:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18500" started-at="2019-06-05T19:07:33Z" finished-at="2019-06-05T19:07:51Z">
+      <class name="com.phptravles.test.PhpTravelTest">
+        <test-method status="PASS" signature="beforeAllTestStart()[pri:0, instance:com.phptravles.test.PhpTravelTest@685cb137]" name="beforeAllTestStart" is-config="true" duration-ms="14" started-at="2019-06-05T19:07:33Z" finished-at="2019-06-05T19:07:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestStart -->
+        <test-method status="PASS" signature="beforeEachTestStart()[pri:0, instance:com.phptravles.test.PhpTravelTest@685cb137]" name="beforeEachTestStart" is-config="true" duration-ms="4890" started-at="2019-06-05T19:07:33Z" finished-at="2019-06-05T19:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method status="PASS" signature="callPhpmeathods()[pri:0, instance:com.phptravles.test.PhpTravelTest@685cb137]" name="callPhpmeathods" duration-ms="2756" started-at="2019-06-05T19:07:38Z" finished-at="2019-06-05T19:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callPhpmeathods -->
+        <test-method status="PASS" signature="afterEachTestEnd()[pri:0, instance:com.phptravles.test.PhpTravelTest@685cb137]" name="afterEachTestEnd" is-config="true" duration-ms="10810" started-at="2019-06-05T19:07:41Z" finished-at="2019-06-05T19:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestEnd -->
+        <test-method status="PASS" signature="afterAllTestCompleted()[pri:0, instance:com.phptravles.test.PhpTravelTest@685cb137]" name="afterAllTestCompleted" is-config="true" duration-ms="0" started-at="2019-06-05T19:07:51Z" finished-at="2019-06-05T19:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCompleted -->
+      </class> <!-- com.phptravles.test.PhpTravelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
